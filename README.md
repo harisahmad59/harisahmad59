@@ -47,6 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/harisahmad59/harisahmad59/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/harisahmad59/harisahmad59/output/snake.svg" alt="Snake animation" />  -->
 
 ###
