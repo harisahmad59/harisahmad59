@@ -1,13 +1,20 @@
-# 💫 About Me:
-👨‍💻 Frontend Web Developer<br>⚡ Content Creator<br>💼 Open for Opportunities
+### Hi, I'm Harris 👋 
 
+I'm a frontend developer specializing in pixel-perfect web design.
+- Check out my [website](https://harisahmad.netlify.app/) to learn more about me.
+- Explore my [instagram page](https://www.instagram.com/codehype_/) where I share insights and learnings.
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/harisahmad59).
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codehype_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harisahmad59) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harisahmad59) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codehype_) 
+## 🔭 Current Endeavors 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harisahmad59&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harisahmad59&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harisahmad59&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm currently learning MERN Stack, where my journey involves both building and learning. Here's what I'm currently focused on:
+
+- I'm engaged in exciting projects.
+- I'm exploring different tools and libraries to enhance my skill set.
+- I'm an early riser, always driven and constantly learning in the tech world.
+
+## 📫 Contact
+
+ For a quick response, DM me on [Instagram](https://www.instagram.com/codehype_/) or [LinkedIn](https://www.linkedin.com/in/harisahmad59). 
+ 
+ For professional inquiries, reach out via email at [business.codehype@gmail.com](mailto:business.codehype@gmail.com). 
