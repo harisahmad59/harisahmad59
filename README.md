@@ -15,6 +15,6 @@ I'm currently learning MERN Stack, where my journey involves both building and l
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/codehype_/) or [LinkedIn](https://www.linkedin.com/in/harisahmad59). 
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/harisahmad59). 
  
- For professional inquiries, reach out via email at [business.codehype@gmail.com](mailto:business.codehype@gmail.com). 
+ For professional inquiries, reach out via email at [haris@codehype.in](mailto:haris@codehype.in). 
