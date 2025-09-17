@@ -1,20 +1,21 @@
-### Hi, I'm Harris 👋 
+### Hi, I'm Harris 👋
 
-I'm a frontend developer specializing in pixel-perfect web design.
-- Check out my [website](https://www.harisahmad.in/) to learn more about me.
-- Explore my [instagram page](https://www.instagram.com/codehype_/) where I share insights and learnings.
-- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/harisahmad59).
+Building CodeHype → reached 100M+ people with AI and tech.
 
-## 🔭 Current Endeavors 
+Built 20+ web solutions for startups and companies.
 
-I'm currently learning MERN Stack, where my journey involves both building and learning. Here's what I'm currently focused on:
+Driving the rise of a next-gen edtech brand.
 
-- I'm engaged in exciting projects.
-- I'm exploring different tools and libraries to enhance my skill set.
-- I'm an early riser, always driven and constantly learning in the tech world.
+## Now
 
-## 📫 Contact
+Scaling products, content, and community.
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/harisahmad59). 
- 
- For professional inquiries, reach out via email at [business.codehype@gmail.com](mailto:business.codehype@gmail.com). 
+Turning execution into impact.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/harisahmad59)
+
+[Instagram](https://www.instagram.com/codehype_/)
+
+[Email](mailto:business.codehype@gmail.com)
