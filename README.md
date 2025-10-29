@@ -14,6 +14,8 @@ Turning execution into impact.
 
 ## Connect
 
+[Portfolio](https://www.harisahmad.in)
+
 [LinkedIn](https://www.linkedin.com/in/harisahmad59)
 
 [Instagram](https://www.instagram.com/codehype_/)
