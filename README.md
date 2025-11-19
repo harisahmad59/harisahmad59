@@ -1,6 +1,6 @@
 ### Hi, I'm Harris 👋
 
-Building CodeHype → reached 100M+ people with AI and tech.
+Building [CodeHype](https://www.codehype.in) → reached 100M+ people with AI and tech.
 
 Built 20+ web solutions for startups and companies.
 
