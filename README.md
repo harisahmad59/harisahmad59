@@ -1,23 +1,36 @@
-### Hi, I'm Harris 👋
+## Hi, I'm Haris 👋
 
-Building [CodeHype](https://www.codehype.in) → reached 100M+ people with AI and tech.
+Building **CodeHype** → reached 100M+ people with AI, coding, and career-focused tech content.
 
-Built 20+ web solutions for startups and companies.
+Built 20+ web products and solutions for startups and growing companies.
 
-Driving the rise of a next-gen edtech brand.
+Leading the rise of a modern, execution-first edtech brand.
+
+---
 
 ## Now
 
-Scaling products, content, and community.
+Scaling digital products, content systems, and community.
 
-Turning execution into impact.
+Turning focused execution into measurable impact.
+
+---
+
+## Projects
+
+### 1. [CodeHype.ai](https://www.CodeHype.ai) — Everything to Get Hired
+
+Structured roadmaps, resume builder, free courses, ebooks, and internship access in one platform.
+
+### 2. [DetectVibeCode.com](https://www.DetectVibeCode.com) — Detect VibeCoded & AI-Generated Websites Instantly
+
+Analyze DOM structure, CSS patterns, content signals, and tech stack fingerprints to understand how a website was built.
+
+---
 
 ## Connect
 
-[Portfolio](https://www.harisahmad.in)
-
-[LinkedIn](https://www.linkedin.com/in/harisahmad59)
-
-[Instagram](https://www.instagram.com/codehype_/)
-
-[Email](mailto:business.codehype@gmail.com)
+* Portfolio: [https://www.harisahmad.in](https://www.harisahmad.in)
+* LinkedIn: [https://www.linkedin.com/in/harisahmad59](https://www.linkedin.com/in/harisahmad59)
+* Instagram: [https://www.instagram.com/codehype_/](https://www.instagram.com/codehype_/)
+* Email: [business.codehype@gmail.com](mailto:business.codehype@gmail.com)
