@@ -6,7 +6,6 @@ Built 20+ web products and solutions for startups and growing companies.
 
 Leading the rise of a modern, execution-first edtech brand.
 
----
 
 ## Now
 
@@ -14,7 +13,6 @@ Scaling digital products, content systems, and community.
 
 Turning focused execution into measurable impact.
 
----
 
 ## Projects
 
@@ -26,7 +24,6 @@ Structured roadmaps, resume builder, free courses, ebooks, and internship access
 
 Analyze DOM structure, CSS patterns, content signals, and tech stack fingerprints to understand how a website was built.
 
----
 
 ## Connect
 
