@@ -16,11 +16,11 @@ Turning focused execution into measurable impact.
 
 ## Projects
 
-### 1. [CodeHype.ai](https://www.CodeHype.ai) — Everything to Get Hired
+### 1. [CodeHype.ai](https://www.CodeHype.ai) - Everything You Need to Get Hired Faster
 
 Structured roadmaps, resume builder, free courses, ebooks, and internship access in one platform.
 
-### 2. [DetectVibeCode.com](https://www.DetectVibeCode.com) — Detect VibeCoded & AI-Generated Websites Instantly
+### 2. [DetectVibeCode.com](https://www.DetectVibeCode.com) - Detect VibeCoded & AI-Generated Websites Instantly
 
 Analyze DOM structure, CSS patterns, content signals, and tech stack fingerprints to understand how a website was built.
 
