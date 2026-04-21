@@ -20,7 +20,11 @@ Turning focused execution into measurable impact.
 
 Structured roadmaps, resume builder, free courses, ebooks, and internship access in one platform.
 
-### 2. [DetectVibeCode.com](https://www.DetectVibeCode.com) - Detect VibeCoded & AI-Generated Websites Instantly
+### 2. [FindAICredits.com](https://www.findaicredits.com) - Find free AI credits before they expire
+
+Verified credits, trials, and discounts from OpenAI, Anthropic, Google, and 100+ tools. Updated weekly for builders.
+
+### 3. [DetectVibeCode.com](https://www.DetectVibeCode.com) - Detect VibeCoded & AI-Generated Websites Instantly
 
 Analyze DOM structure, CSS patterns, content signals, and tech stack fingerprints to understand how a website was built.
 
