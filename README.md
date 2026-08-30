@@ -1,28 +1,34 @@
 ## Hi, I'm Haris 👋
 
-Building **CodeHype** → reached 100M+ people with AI, coding, and career-focused tech content.
+Building **CodeHype** → a modern product discovery and launch platform for SaaS, AI tools, startups, and digital products.
 
 Built 20+ web products and solutions for startups and growing companies.
 
-Leading the rise of a modern, execution-first edtech brand.
+Building a modern, execution-first platform for discovering and launching great products.
 
 
 ## Now
 
-Scaling digital products, content systems, and community.
+Scaling CodeHype, digital products, content systems, and community.
 
-Turning focused execution into measurable impact.
+Helping founders launch products, get discovered, and grow their online presence.
 
 
 ## Projects
 
-### 1. [CodeHype.ai](https://www.CodeHype.ai) - Everything You Need to Get Hired Faster
+### 1. [CodeHype.ai](https://www.CodeHype.ai) - Discover, Launch & Grow Your Product
 
-Structured roadmaps, resume builder, free courses, ebooks, and internship access in one platform.
+A modern product discovery and launch platform for SaaS, AI tools, startups, and digital products.
+
+Launch your product, get discovered by builders and tech enthusiasts, and build visibility through product listings, launches, and content.
+
 
 ### 2. [FindAICredits.com](https://www.findaicredits.com) - Find free AI credits before they expire
 
-Verified credits, trials, and discounts from OpenAI, Anthropic, Google, and 100+ tools. Updated weekly for builders.
+Verified credits, trials, and discounts from OpenAI, Anthropic, Google, and 100+ tools.
+
+Updated regularly to help builders discover new ways to access and use AI tools.
+
 
 ### 3. [DetectVibeCode.com](https://www.DetectVibeCode.com) - Detect VibeCoded & AI-Generated Websites Instantly
 
